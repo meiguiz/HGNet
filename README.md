@@ -37,7 +37,7 @@ This repository supports both the [Cornell Grasping Dataset](https://www.kaggle.
 
 ## Model Training
 
-A model can be trained using the `train_network.py` script.  Run `train_network.py --help` to see a full list of options.
+A model can be trained using the `train_network.py` script.
 
 Example for Cornell dataset:
 
