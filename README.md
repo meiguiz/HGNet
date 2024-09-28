@@ -2,7 +2,7 @@
 
 This repository contains the implementation of the GHNet from the paper:
 
-#### HGNet: GIoU Loss Optimization and Hierarchical RGB-D Feature Fusion for Generative Robotic Grasping
+#### HGNet: Hierarchical RGB-D Feature Fusion and GIoU Loss Optimization for Generative Robotic Grasping
 
 Robot grasping experiment video: [video](https://youtu.be/uCN0iav4FqQ)
 
